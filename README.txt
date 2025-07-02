@@ -1,4 +1,4 @@
-📂 NAME OF PROJECT
+📂 ExcelReader
 ============================
 This Python script processes an Excel workbook by reading specified cell ranges from a given worksheet, calculates the total and average of the numeric values (ignoring zeros and empty cells) within those ranges, and saves the summarized results into a new Excel file.
 
